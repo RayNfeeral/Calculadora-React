@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Calculadora React
 
+Feito durante o Gama Experience
 Projeto disponível em https://adoring-blackwell-53af3d.netlify.com/
 
 ## Available Scripts
